@@ -1,3 +1,9 @@
+
+![7MfrY+](https://github.com/tahaburaksahin/NotePad/assets/99183230/2a8a25e7-2d0a-4510-b335-06d486aaa207)
+![MLh628](https://github.com/tahaburaksahin/NotePad/assets/99183230/23fd54d6-a468-4606-a6bf-bfcf088c4e73)
+![3C+CZy](https://github.com/tahaburaksahin/NotePad/assets/99183230/57dd5757-8ef9-4371-b81a-4c5ec09fbca3)
+
+
 Notepad Project
 This project is a notepad application developed in Java for PC. It has been also added to GitHub for version control. Below is the text to be included in the README section:
 
